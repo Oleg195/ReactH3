@@ -1,0 +1,7 @@
+li{display: inline-block;
+    display: inline-block; /* Строчно-блочный элемент */
+    border: 1px solid #000; /* Рамка вокруг текста */
+    padding: 3px;
+    margin: 3px; padding: 7px ;
+}
+nav{text-align: end;}
